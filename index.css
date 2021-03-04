@@ -154,12 +154,6 @@ section>.detail {
   margin-top: 10px;
 }
 
-.myskill .detail {
-  grid-column: 3/4;
-  grid-row: 2;
-  margin-top: 10px;
-}
-
 @media(max-width:768px) {
   section>.detail {
     margin-top: 0px;
@@ -173,10 +167,6 @@ section>.detail>ol>li {
 section>.detail>ol>li>.info {
   margin-left: 12px;
   font-size: 16px;
-}
-
-section.myskill>.detail>ul>li {
-  padding: 8px 0;
 }
 
 #skillRadar {
